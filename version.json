@@ -1,7 +1,7 @@
 {
-  "version": "7.6.2",
-  "updateexe": "https://github.com/afsygga/afserinno-releases/releases/download/v7.6.2/aFserinno-Setup.exe",
+  "version": "7.6.3",
+  "updateexe": "https://github.com/afsygga/afserinno-releases/releases/download/v7.6.3/aFserinno-Setup.exe",
   "updateexe_arm": "https://github.com/afsygga/afserinno-releases/releases/download/v7.6.1/aFserinno-macOS-universal.dmg",
-  "portable_download": "https://github.com/afsygga/afserinno-releases/releases/download/v7.6.2/aFserinno-Setup.exe",
+  "portable_download": "https://github.com/afsygga/afserinno-releases/releases/download/v7.6.3/aFserinno-Setup.exe",
   "portable_download_arm": "https://github.com/afsygga/afserinno-releases/releases/download/v7.6.1/aFserinno-macOS-universal.dmg"
 }
